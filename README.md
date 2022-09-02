@@ -1,5 +1,5 @@
 # array search
-// i am asddamk
+// i am asddam  and 
 #include<stdio.h>
 int main(){
 int num[]={10 ,20, 30, 40,50 },i,pos=0,valu;
