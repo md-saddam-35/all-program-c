@@ -1,4 +1,5 @@
-# all-program
+# array search
+
 #include<stdio.h>
 int main(){
 int num[]={10 ,20, 30, 40,50 },i,pos=0,valu;
