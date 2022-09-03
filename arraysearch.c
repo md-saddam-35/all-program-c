@@ -4,7 +4,7 @@
 int main(){
 int num[]={10 ,20, 30, 40,50 },i,pos=0,valu;
 
-printf("enter the valu you want to search\t");
+printf("enterrr the valu you want to search\t");
 
 scanf("%d",&valu);
 
